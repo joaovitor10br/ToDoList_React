@@ -4,14 +4,9 @@ Uma aplicação de lista de tarefas moderna construída com React.js, focada em 
 
 Este projeto foi desenvolvido como parte do meu aprendizado em Front-End com o objetivo de evoluir minhas habilidades e compor meu portfólio.
 
-## 🚀 Demonstração
+🚀 Demonstração
 
-👉 Acesse o projeto online:
-https://to-do-list-react-ten-chi.vercel.app/
-
-## 🖼️ Preview
-
-![Preview do app](./screenshot.png)
+Em breve: deploy online 🌍
 
 ✨ Funcionalidades
 
